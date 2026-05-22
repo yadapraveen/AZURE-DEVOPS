@@ -1,0 +1,1 @@
+ssh -i test_key.pem azureuser@20.198.21.137
