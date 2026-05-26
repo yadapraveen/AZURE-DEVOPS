@@ -144,4 +144,14 @@ BGP Support: Allows dynamic routing between your on-premises network and Azure.
 ![alt text](image-5.png)
 
 
+# DAY - 07
+
+## TASK
+Install and Configure Nginx on Ubuntu
+
+![alt text](image-6.png)
+
+
+
+
 
